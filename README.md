@@ -1,6 +1,6 @@
 
-## README Generator
-## By josephwojtowicz
+## 
+## By 
 ## License MIT
 
 ## Table of Contents
@@ -10,11 +10,11 @@
     -- Credits
 
 ## Description
-Readme generator using node.js and inquirer.
+
 ## Installation
-Run 'node index.js' in terminal.
+
 ## Usage
-Run application and insert your information to create a readme for your github projects.
+
 ## Credits
-Just me.
+
     
